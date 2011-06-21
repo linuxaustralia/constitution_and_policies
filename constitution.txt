@@ -92,6 +92,8 @@ A person ceases to be a member of the association if the person:
 
   (d) fails to pay the annual membership fee under clause 8 (2) within 3 months after the fee is due.
 
+  (e) fails to respond to a written request for membership renewal under clause 8(4) by 30 September.
+
 
 5. Membership entitlements not transferable
 
@@ -143,6 +145,10 @@ A right, privilege or obligation which a person has by reason of being a member 
   (a) except as provided by paragraph (b), before 1 October in each calendar year, or
 
   (b) if the member becomes a member on or after 1 October in any calendar year - on becoming a member and before 1 October in each succeeding calendar year.
+
+(3) The annual membership fee due before 1 October in a calendar year will be determined by the committee and members will be notified no later than 1 August in that calendar year or else be held to be $0.
+
+(4) If the annual membership fee due in any calendar year is $0, the secretary may notify members no later than 1 August that they must renew their membership in writing, or cease to be members from 1 October that year.
 
 
 9. Members’ liabilities
