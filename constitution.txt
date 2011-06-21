@@ -137,9 +137,9 @@ A right, privilege or obligation which a person has by reason of being a member 
 
 (2) In addition to any amount payable by the member under subclause (1), a member of the association must pay to the association an annual membership fee of $2 or, if some other amount is determined by the committee, that other amount:
 
-  (a) except as provided by paragraph (b), before 1 July in each calendar year, or
+  (a) except as provided by paragraph (b), before 1 October in each calendar year, or
 
-  (b) if the member becomes a member on or after 1 July in any calendar year - on becoming a member and before 1 July in each succeeding calendar year.
+  (b) if the member becomes a member on or after 1 October in any calendar year - on becoming a member and before 1 October in each succeeding calendar year.
 
 
 9. Members’ liabilities
@@ -589,7 +589,7 @@ The financial year of the association is:
 
   (a) the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
 
-  (b) each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
+  (b) each period of 12 months after the expiration of the previous financial year, commencing on 1 October and ending on the following 30 September.
 
 Note: Schedule 1 of the Act provides that an association’s constitution is to address the association’s financial year.
 
