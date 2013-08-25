@@ -1,5 +1,5 @@
-Code of Conduct
-===============
+Code of Conduct (template)
+==========================
 
 This code of conduct applies to our community and serves as a template to our
 conferences.
