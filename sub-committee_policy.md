@@ -186,7 +186,5 @@ Australia values Open Technology, Community, Freedom, Respect and Diversity
 which are all upheld by EVENT XYZ. For more information about Linux Australia
 and its governance, visit http://linux.org.au.
 
-Links
-=====
 [FPG]: http://linux.org.au/policies/financial-procedure-guide "Financial Process Guide"
 [EP]: https://github.com/linuxaustralia/constitution_and_policies/blob/master/expense_policy.md "Expenses Policy"
