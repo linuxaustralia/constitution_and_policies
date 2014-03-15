@@ -49,6 +49,8 @@ Advises the subcommittee on decisions, and acts as a guiding influence to the re
 
 The subcommittee should appoint at least two members with the ability to sign payments to the conference bank account: one must be the subcommittee treasurer.
 
+### Other Roles
+
 Steering committees may at their discretion define other formal roles, but if they are filled by people other than the two site team representatives and three community representatives, these people shall only be recognised as observers of subcommittee meetings.
 
 
