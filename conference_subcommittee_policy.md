@@ -47,6 +47,8 @@ A member of the site team. Is responsible for preparing conference budgets for c
 
 Advises the subcommittee on decisions, and acts as a guiding influence to the remainder of the subcommittee. Ensures that financial decisions made by the site team have the long-term interest of the conference and LA in mind. Should be appointed from past organisers of the conference, or from trusted members of the community.
 
+### Members with Payment Authority
+
 The subcommittee should appoint at least two members with the ability to sign payments to the conference bank account: one must be the subcommittee treasurer.
 
 ### Other Roles
