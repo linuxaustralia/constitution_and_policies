@@ -1,4 +1,4 @@
-# Rationale
+## Rationale
 One of Linux Australia’s goals is to provide members of our community with forums for discussion of Free and Open Source technologies. To facilitate these events, Linux Australia provides a legal structure, and administrative services on behalf of our community.
 
 Linux Australia forms conference and event subcommittees in order to delegate responsibility for the organisation of individual conferences and events to enthusiastic and responsible members of our community. This includes delegating access to funds and bank accounts, and delegating authority to contract venues and suppliers for events.
@@ -17,7 +17,7 @@ Linux Australia also has the following requirements for conference subcommittees
 
 The intention of this policy is to ensure that reporting is not arduous, but substantially increases Council’s awareness of how a conference is progressing. It also nominates specific avenues for conference organisers to seek advice.
 
-# Structure
+## Structure
 Subcommittees are created by the Linux Australia Council, and each subcommittee will continue to exist at the discretion of the Council. Subcommittee members serve at the discretion of the council.
 
 Each conference will have a single, long-standing subcommittee, which may be called a Steering subcommittee. In future, Steering subcommittees will be formed instead of the short-standing subcommittees for each instance of the conference.
@@ -56,16 +56,16 @@ Perform roles defined by the subcommittee, and are appointed by a method the sub
 
 Observers may, at the discretion of the subcommittee, have formally defined roles for the purposes of the conference.
 
-# Role of the Subcommittee
+## Role of the Subcommittee
 Subcommittees will perform at least the following tasks, to ensure that their conference runs successfully, is handed over, and reports their financial situation to the council.
 
-## Nomination of Community Representatives
-* Community representatives shall be nominated by the membership, or by the Linux Australia council.
+### Nomination of Community Representatives
+# Community representatives shall be nominated by the membership, or by the Linux Australia council.
 * Community representatives shall be appointed by council from nominees.
 * Community representatives shall serve for terms of one year, commencing from the conclusion of one conference, to the conclusion of the following year’s conference.
 * Community representatives may be appointed for further terms as council sees fit.
 
-## Conference Bids and Selection (Appointment of New Site Team Representatives)
+### Conference Bids and Selection (Appointment of New Site Team Representatives)
 * The subcommittee will design a bid process and receive bids for hosting a rotation of the conference. Bid processes must be approved by the LA Council before announcement.
 * A successful bid results in the subcommittee nominating two site team representatives, and designating the length of their terms. Bids shall be put to council for final approval.
 * For new or lapsed conferences, the site representatives shall be appointed upon request to the council.
@@ -77,7 +77,7 @@ Handover and Delegation of Authority
 * The subcommittee may appoint observers to the subcommittee by majority vote.
 * The council can delegate authority to execute specific business of the subcommittee to any observer recognised by the subcommittee by majority vote.
 
-## Meeting and Voting
+### Meeting and Voting
 * The subcommittee shall meet as often as is appropriate to amend their budgets and request to have funds made available.
 * The quorum for meetings shall be a majority of all members, subject to the following restrictions:
 * At least one site team representative.
@@ -90,7 +90,7 @@ Handover and Delegation of Authority
 * In the case of motions regarding initial budget models, a majority of all community representatives (including those who have not voted) has voted in favour.
 * If a subcommittee member fails to vote at three consecutive meetings, the subcommittee may move a motion requesting the expulsion of that subcommittee member.
 
-## Budgeting
+### Budgeting
 * The subcommittee will meet regularly to approve budgets proposed by the treasurer.
 * For new conferences, budget models should demonstrate viability based on a minimum number of delegates, by negotiation with council, as well as attracting no sponsorship.
 * For recurring conferences, initial budget models should demonstrate viability based on multiple levels of attendance as appropriate, and no initial sponsorship.
@@ -104,34 +104,34 @@ Handover and Delegation of Authority
 * The accuracy of budgets should be evidenced by written quotations and contracts where such documentation exists.
 * Documentation of costs and liabilities must be required for items representing more than 3% of the total expenses of the conference, or $5000, whichever is lower.
 
-## Conference Proceeds
+### Conference Proceeds
 * The council takes care of a number of expenses conferences incur, such as insurance, accounting/tax issues, credit card processing fees. The council will provide the amounts/formulas for these entries to be included as expenses in the subcommittee budget.
 * Conferences must nominate a level of contingency for unforeseen expenses, and may be asked to nominate a surplus component in their budget. These amounts must meet the approval of council.  The surplus proceeds of a conference contribute to the ongoing financial stability of Linux Australia and its ability to facilitate and support open technology communities.
 
-## Reporting
-**The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
+### Reporting
+*The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
 * Minutes shall be made available to the membership; items may be denoted in camera for items that need to be kept private to the subcommittee and council.
 * Financial obligations (including payment amounts and deadlines) must be reported, so the Council treasurer can make funds available to the subcommittee at appropriate times.
 * New financial obligations must be reported alongside an updated budget which takes into account the current financial situation of the conference.
 Council may, from time to time, request to meet with subcommittee members to discuss the state of the conference.
 
-## Responsibilities of Linux Australia
+### Responsibilities of Linux Australia
 * Linux Australia and the council will ensure that the following tasks are completed, to allow the subcommittee to successfully run the conference.
 Budgeting and Conference Finance
 * The Council shall consider, and vote upon budgets submitted by the subcommittee at the first available opportunity.
 * The Council shall hold the conference’s funds until such time as the Council believes these are required by the subcommittee.
 * The Council will release funds to the Site Chair and Treasurer to execute; the amount of funds made available should take into account contracted payment deadlines, per the reports made by the subcommittee.
 
-## Appointment of Subcommittee Members
+### Appointment of Subcommittee Members
 * Council shall appoint subcommittee members from eligible nominations in a time frame that will not impact the operation of the conference.
 * Where a council appoints new members to the subcommittee, the council will update the subcommittee register appropriately.
 * The council will not appoint subcommittee members without a minuted nomination from the membership, except:
 * When the community fails to nominate members after members’ designated terms expire
 * When it is of the opinion of the council that the subcommittee is acting against the financial interests of Linux Australia
 
-## Expulsion of Subcommittee Members
+### Expulsion of Subcommittee Members
 * Where the subcommittee passes an expulsion motion, the Council will, at the first available opportunity, ensure that the subcommittee register is updated, and that a replacement is appointed in line with the policy.
 
-## Dispute Resolution
+### Dispute Resolution
 * Any member of the association may appeal to the Linux Australia council regarding a minuted decision of the subcommittee to request arbitration. In this case, arbitration may be performed at the discretion of council.
 *If two subcommittee members appeal to the Linux Australia council regarding a minuted decision of the subcommittee, the Linux Australia council MUST engage in arbitration.
