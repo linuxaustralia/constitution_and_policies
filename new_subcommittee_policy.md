@@ -60,7 +60,7 @@ Observers may, at the discretion of the subcommittee, have formally defined role
 Subcommittees will perform at least the following tasks, to ensure that their conference runs successfully, is handed over, and reports their financial situation to the council.
 
 ### Nomination of Community Representatives
-# Community representatives shall be nominated by the membership, or by the Linux Australia council.
+* Community representatives shall be nominated by the membership, or by the Linux Australia council.
 * Community representatives shall be appointed by council from nominees.
 * Community representatives shall serve for terms of one year, commencing from the conclusion of one conference, to the conclusion of the following year’s conference.
 * Community representatives may be appointed for further terms as council sees fit.
@@ -109,7 +109,7 @@ Handover and Delegation of Authority
 * Conferences must nominate a level of contingency for unforeseen expenses, and may be asked to nominate a surplus component in their budget. These amounts must meet the approval of council.  The surplus proceeds of a conference contribute to the ongoing financial stability of Linux Australia and its ability to facilitate and support open technology communities.
 
 ### Reporting
-*The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
+* The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
 * Minutes shall be made available to the membership; items may be denoted in camera for items that need to be kept private to the subcommittee and council.
 * Financial obligations (including payment amounts and deadlines) must be reported, so the Council treasurer can make funds available to the subcommittee at appropriate times.
 * New financial obligations must be reported alongside an updated budget which takes into account the current financial situation of the conference.
