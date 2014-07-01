@@ -28,6 +28,8 @@ Steering subcommittees consist of at least five voting members, and any number o
 
 The voting members are divided into two categories: site team representatives and community representatives. This is to ensure that community members, with the long-term interest of the conference, balance those who are more interested in the success of the current instance of the conference. All voting members must be members of Linux Australia.
 
+![Diagram of example subcommittee](https://github.com/linuxaustralia/constitution_and_policies/raw/master/subcommittee_diagram.png)
+
 Steering subcommittees must appoint a minimum of two community representatives. However, if only a single or no community representatives can be appointed, council shall act as the remaining community representatives for the purposes of voting and quorum.
 
 The number of community representatives shall be weighted appropriately compared with the number of site representatives, subject to approval by council.
