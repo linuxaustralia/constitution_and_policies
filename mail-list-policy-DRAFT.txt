@@ -76,7 +76,7 @@ List moderators will be able to deviate from these defaults at their discretion 
 
                i. Private email to the transgressor outlining how they have transgressed the policy and requesting them to refrain
                ii. Temporarily banning the transgressor from the list for a period not exceeding thirty (30) days
-               iii. Placing the list into emergency moderation, whereupon each post is moderated
+               iii. Placing the list into emergency moderation or 'slowdown' mode
                iv. Permanently banning the transgressor from the list[g][h]
                v. Recommending to Linux Australia Council that the transgressor’s membership of Linux Australia (if a member) be revoked in line with the Constitution[i][j]
                vi. Other actions as deemed appropriate to the context and circumstance, and agreed to by Moderators and the Linux Australia Council
@@ -85,7 +85,7 @@ List moderators will be able to deviate from these defaults at their discretion 
 5. Right to appeal 
 
 
-               a. In line with the principles of natural justice, a transgressor who is the target of a response action from a moderator under 4(b) may appeal to Council. 
+               a. A transgressor who is the target of a response action from a moderator under 4(b) may appeal to Council. 
 
 
                b. Council will deliberate and provide a ruling within 14 (fourteen) days of receiving an appeal. [k][l]
