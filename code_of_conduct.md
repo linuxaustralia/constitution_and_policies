@@ -40,7 +40,14 @@ to keynotes, presentations, lightning talks, addresses, mailing list posts and
 forums, is subject to this code of conduct and thus may not contain:
 * sexual or violent imagery;
 * exclusionary language;
-* language which is not appropriate for an all-ages audience.
+* insults or ad-hominem attacks.
+
+Presenters are asked to avoid language which is not appropriate for an
+all-ages audience as much as possible.
+
+If the content of the presentation requires including language that could
+be considered offensive, this should be pointed out in advance, at the
+beginning of the talk and in the schedule.
 
 If presenters are unsure whether their material is suitable, they are
 encouraged to show it to the conference’s speaker liaison or mailing
