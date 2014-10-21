@@ -45,8 +45,9 @@ forums, is subject to this code of conduct and thus may not contain:
 Presenters are asked to avoid language which is not appropriate for an
 all-ages audience as much as possible.
 
-If the content of the presentation requires including language that could
-be considered offensive, this should be pointed out in advance, at the
+If the subject matter of the presentation cannot be presented
+adequately without including language that could be considered
+offensive, this should be pointed out in advance, at the
 beginning of the talk and in the schedule.
 
 If presenters are unsure whether their material is suitable, they are
