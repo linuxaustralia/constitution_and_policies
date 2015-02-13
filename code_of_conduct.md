@@ -104,3 +104,7 @@ Questions?
 ----------
 If you’re not sure about anything you’ve just read please contact the
 organisers or the Linux Australia Council at council@linux.org.au.
+
+This document is available to be re-used or modified under the terms of the
+Creative Commons Attribution-ShareAlike 3.0 Australia licence, available
+from https://creativecommons.org/licenses/by-sa/3.0/au/ 
