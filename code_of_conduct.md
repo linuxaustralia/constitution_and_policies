@@ -89,7 +89,6 @@ are not appropriate:
 * stalking or following;
 * unwanted photography or recording;
 * sustained disruption of talks or other events;
-* non-consensual licking;
 * intoxication at an event venue;
 * inappropriate physical contact;
 * unwelcome sexual attention;
