@@ -11,8 +11,10 @@ Be excellent to each other.
 Linux Australia aims to provide fun, welcoming and professional environments so
 that diverse groups of people - regardless of age, race, gender identity or
 expression, background, disability, appearance, sexuality, walk of life, or
-religion - can get together to learn from and be inspired by each other about
+religion; or their preferred operating system, programming language 
+or text editor - can get together to learn from and be inspired by each other about
 all things Free and Open Source.
+
 
 Linux Australia is committed to the ideals expressed in our Values Statement
 [http://linux.org.au/values] and ask all our members, speakers, volunteers,
