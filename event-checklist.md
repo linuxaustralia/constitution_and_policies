@@ -7,7 +7,11 @@ The steps can be summarised as;
 1. Form an event subcommittee under the [event subcommittee policy](subcommittee_policy_v2.md).  
 2. Understand financial arrangements and set up banking access
 3. Put in place event infrastructure
-
+4. Put in place event Code of Conduct
+5. Ensure insurance coverage for event
+6. Ensure recognition of Linux Australia in event's digital presence
+7. Ensure Sponsorship Agreement is in place
+8. Ensure Post Event Report is written and distributed
 
 ##Checklist for Event Teams
 * [ ] Get your event team together and ensure you have a balanced mix of skills
@@ -23,6 +27,7 @@ The steps can be summarised as;
 * [ ] Adopt an event Code of Conduct
 * [ ] Check that Linux Australia's insurance is suitable for the event
 * [ ] Branding clearly states that the event is a Linux Australia event, and a link back to [Linux Australia](https://www.linux.org.au) is provided.
+* [ ] Sponsorship agreement is signed by sponsors
 * [ ] Post event report is provided to Linux Australia Council
 
 
@@ -30,15 +35,17 @@ The steps can be summarised as;
 * [ ] Ensure the event team is aware of the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] When received, consider the Motion to form the event subcommittee
 * [ ] Undertake due diligence to ensure that members of the event subcommittee are members of Linux Australia
+* [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
+* [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
 * [ ] Provide access to Westpac banking
 * [ ] Provide access to Xero
 * [ ] Provide a walkthrough of Westpac and Xero
-* [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
-* [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
 * [ ] Undertake approvals in Westpac for large transactions in a timely manner
 * [ ] Provide assistance with event infrastructure like website, registration system and payment gateway, if required
 * [ ] Provide an insurance Certificate of Currency if required
-* [ ] Post event report is considered an used as an input into continuous improvement activities
+* [ ] Provide templated Sponsorship Agreement if required
+* [ ] Review Sponsorship Agreement if required
+* [ ] Post event report is considered and used as an input into continuous improvement activities
 
 ##Forming an event subcommittee
 Forming a high performing team doesn't happen by accident, so ensure that you have the right mix of skills, talent and leadership. It's a good idea to have a clear leader, a 2IC and a Treasurer on your event. Once you have your team together, ensure that they're members of Linux Australia. You must be a member of Linux Australia to sit on a subcommittee, as per the [Linux Australia Constitution](consitution.txt).
@@ -75,6 +82,9 @@ Linux Australia holds a broad insurance policy covering items such as Volunteers
 
 ##Recognition of Linux Australia
 Your event's branding and website should clearly indicate that your event is held under the auspices of Linux Australia, and should provide a link back to [Linux Australia](https://www.linux.org.au).
+
+##Sponsorship agreement
+If your event has Sponsors, it is expected that each Sponsor will sign a Sponsorship Agreement. This helps to set expectations for both parties and help ensure long term productive sponsor relationships. Linux Australia can provide templated Sponsorship Agreements. 
 
 ##Post event report
 Your event is required to provide a post event report to the Linux Australia Council as soon as practicable after the closure of the event. The depth of the report will vary based on the size, scale and nature of the event, but at a minimum should provide the following information;
