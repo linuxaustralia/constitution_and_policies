@@ -65,7 +65,14 @@ You will be provided with access to two systems for financial administration, be
 * Westpac online banking
 * Xero for accounting and general ledger functions
 
-A Council member or delegate will provide instructions and an overview on how to use the financial systems.
+A Council member or delegate will provide instructions and an overview on how to use the financial systems. In order to gain access to Westpac, you will need to provide the following information to [the Linux Australia Treasurer](mailto:treasurer@linux.org.au);
+
+* Westpac customer number (obtained by providing 100 points of ID at a Westpac branch - passport, driver's licence, Medicare card etc.)
+* Date of Birth
+* Mobile number
+* Full legal name
+* preferred email address
+
 
 It is expected that your event subcommittee will provide budgets for review by the Council, to ensure strong financial oversight. Budgetary guidelines are dealt with in detail in the [event subcommittee policy](subcommittee_policy_v2.md).
 
@@ -84,7 +91,7 @@ Linux Australia holds a broad insurance policy covering items such as Volunteers
 Your event's branding and website should clearly indicate that your event is held under the auspices of Linux Australia, and should provide a link back to [Linux Australia](https://www.linux.org.au).
 
 ##Sponsorship agreement
-If your event has Sponsors, it is expected that each Sponsor will sign a Sponsorship Agreement. This helps to set expectations for both parties and help ensure long term productive sponsor relationships. Linux Australia can provide templated Sponsorship Agreements. 
+If your event has Sponsors, it is expected that each Sponsor will sign a Sponsorship Agreement. This helps to set expectations for both parties and help ensure long term productive sponsor relationships. Linux Australia can provide templated Sponsorship Agreements.
 
 ##Post event report
 Your event is required to provide a post event report to the Linux Australia Council as soon as practicable after the closure of the event. The depth of the report will vary based on the size, scale and nature of the event, but at a minimum should provide the following information;
