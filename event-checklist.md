@@ -14,12 +14,16 @@ The steps can be summarised as;
 8. Ensure Post Event Report is written and distributed
 
 ##Checklist for Event Teams
+
 * [ ] Get your event team together and ensure you have a balanced mix of skills
 * [ ] Read through the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Ensure all members of your team are [members of Linux Australia](https://www.linux.org.au/membership)
-* [ ] Raise a motion to form a new subcommittee by [emailing the Council](mailto:council@linux.org.au). A draft motion is provided below.
-* [ ] Understand expectations from Linux Australia regarding the percentage of event profits that are expected to be returned to Linux Australia
+* [ ] Request a new subcommittee be created by [emailing the Council](mailto:council@linux.org.au). An example of what should be included in the request is given below.
+* [ ] Understand expectations from Linux Australia that the event is expected to make a profit of $AUD 11 per attendee, or as negotiated, and that all profits from the event are returned to Linux Australia to be re-invested in the region's Linux and open source community.
 * [ ] Provide the full names of the subcommittee members who will be responsible for financials for the subcommittee so that Linux Australia can ensure that these details are provided to Westpac correctly
+
+Once your Subcommittee is formed, then;
+
 * [ ] Undertake a walkthrough of Westpac and Xero for financial administration
 * [ ] Provide an event budget for review to Council
 * [ ] Ensure financial transactions are recorded diligently in Westpac and Xero, and that the two systems are reconciled promptly
@@ -33,7 +37,7 @@ The steps can be summarised as;
 
 ##Checklist for Linux Australia
 * [ ] Ensure the event team is aware of the [event subcommittee policy](subcommittee_policy_v2.md)
-* [ ] When received, consider the Motion to form the event subcommittee
+* [ ] Raise a motion to form a new subcommittee. A draft motion is provided below.
 * [ ] Undertake due diligence to ensure that members of the event subcommittee are members of Linux Australia
 * [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
 * [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
@@ -47,12 +51,38 @@ The steps can be summarised as;
 * [ ] Review Sponsorship Agreement if required
 * [ ] Post event report is considered and used as an input into continuous improvement activities
 
+This is also [detailed in the Event Subcommittee Policy, which you may wish to refer to](subcommittee_policy_v2.md).
+
 ##Forming an event subcommittee
 Forming a high performing team doesn't happen by accident, so ensure that you have the right mix of skills, talent and leadership. It's a good idea to have a clear leader, a 2IC and a Treasurer on your event. Once you have your team together, ensure that they're members of Linux Australia. You must be a member of Linux Australia to sit on a subcommittee, as per the [Linux Australia Constitution](consitution.txt).
 
-A motion is then presented to the Linux Australia Council to form the event subcommittee - see the draft motion below. The Council will consider the motion and will notify you if it has passed, or provide a reason for it being rejected.
+When you're ready to form an Event Subcommittee, [email the Linux Australia Council](mailto:council@linux.org.au) with your proposal. Your proposal should contain the elements below.
+
+###Draft Proposal
+
+* The goal of the subcommittee - for instance;
+
+```
+The goal of the Super Duper Event Committee is to run a 3 day event at the University of Awesome in Ayers Rock.
+
+The Event is expected to attract 500 people. The event will be run over 3 days, and have 2 streams, one conference dinner and a hackathon afternoon.
+
+The event is expected to attract $50k in funding from Sponsors.
+
+The proposed team members are
+- Adam Apple - Event Leader
+- Betsy Blue - Treasurer
+- Catilyn Capers - Sponsor Lead
+- Donald Downs - Media and promotions
+
+The initial budget is attached, showing that the event is viable with low sponsorship and conservative attendance.
+
+```
 
 ###Draft motion
+
+The Linux Australia Council will then consider the proposal  event subcommittee, and if comfortable will raise a Motion to form the subcommittee. The Council will consider the Motion and will notify you if it has passed, or provide a reason for it being rejected.
+
 MOTION by YOUR NAME that an Event Subcommittee is formed to run YOUR EVENT, based on the Subcommittee Policy, with the following members
 * Member - Role
 * Member - Role
@@ -61,18 +91,19 @@ MOTION by YOUR NAME that an Event Subcommittee is formed to run YOUR EVENT, base
 ##Setting up financials
 Once your event subcommittee has formed, Linux Australia will discuss financial arrangements with you and set expectations around the level of profit from your event that will be returned to Linux Australia to cover administrative costs.
 
-You will be provided with access to two systems for financial administration, being;
+The Linux Australia Council will provide you with access to two systems for financial administration, being;
 * Westpac online banking
 * Xero for accounting and general ledger functions
 
-A Council member or delegate will provide instructions and an overview on how to use the financial systems. In order to gain access to Westpac, you will need to provide the following information to [the Linux Australia Treasurer](mailto:treasurer@linux.org.au);
+A Council member or delegate will provide instructions and an overview on how to use the financial systems.
+
+In order to gain access to Westpac, the team members with financial responsibility will need to provide the following information to [the Linux Australia Treasurer](mailto:treasurer@linux.org.au);
 
 * Westpac customer number (obtained by providing 100 points of ID at a Westpac branch - passport, driver's licence, Medicare card etc.)
 * Date of Birth
 * Mobile number
 * Full legal name
 * preferred email address
-
 
 It is expected that your event subcommittee will provide budgets for review by the Council, to ensure strong financial oversight. Budgetary guidelines are dealt with in detail in the [event subcommittee policy](subcommittee_policy_v2.md).
 
