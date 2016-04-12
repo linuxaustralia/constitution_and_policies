@@ -19,7 +19,7 @@ The steps can be summarised as;
 * [ ] Read through the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Ensure all members of your team are [members of Linux Australia](https://www.linux.org.au/membership)
 * [ ] Request a new subcommittee be created by [emailing the Council](mailto:council@linux.org.au). An example of what should be included in the request is given below.
-* [ ] Understand expectations from Linux Australia that the event is expected to make a profit of $AUD 11 per attendee, or as negotiated, and that all profits from the event are returned to Linux Australia to be re-invested in the region's Linux and open source community.
+* [ ] Understand expectations from Linux Australia that the event is expected to make a minimum profit to cover organisational expenses such as banking, auditing, insurance and so on, and that all profits above and beyond this amount from the event are returned to Linux Australia to be re-invested in the region's Linux and open source community.
 * [ ] Provide the full names of the subcommittee members who will be responsible for financials for the subcommittee so that Linux Australia can ensure that these details are provided to Westpac correctly
 
 Once your Subcommittee is formed, then;
