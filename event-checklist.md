@@ -19,7 +19,7 @@ The steps can be summarised as;
 * [ ] Read through the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Ensure all members of your team are [members of Linux Australia](https://www.linux.org.au/membership)
 * [ ] Request a new subcommittee be created by [emailing the Council](mailto:council@linux.org.au). An example of what should be included in the request is given below.
-* [ ] Understand expectations from Linux Australia that the event is expected to make a minimum profit to cover organisational expenses such as banking, auditing, insurance and so on, and that all profits above and beyond this amount from the event are returned to Linux Australia to be re-invested in the region's Linux and open source community.
+* [ ] Meet with representatives from Linux Australia Council to discuss expectations regarding the amount of profit your event is expected to make. 
 * [ ] Provide the full names of the subcommittee members who will be responsible for financials for the subcommittee so that Linux Australia can ensure that these details are provided to Westpac correctly
 
 Once your Subcommittee is formed, then;
@@ -37,8 +37,9 @@ Once your Subcommittee is formed, then;
 
 ##Checklist for Linux Australia
 * [ ] Ensure the event team is aware of the [event subcommittee policy](subcommittee_policy_v2.md)
-* [ ] Raise a motion to form a new subcommittee. A draft motion is provided below.
+* [ ] Raise a motion to form a new subcommittee based on the [event subcommittee policy](subcommittee_policy_v2.md). A draft motion is provided below.
 * [ ] Undertake due diligence to ensure that members of the event subcommittee are members of Linux Australia
+* [ ] Meet with the Subcommittee to set expectations around minimum profits to cover operating costs (to be treated as an expense in budgeting) and how additional profits are used to further the organisation's values. 
 * [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
 * [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
 * [ ] Provide access to Westpac banking
@@ -108,6 +109,9 @@ In order to gain access to Westpac, the team members with financial responsibili
 It is expected that your event subcommittee will provide budgets for review by the Council, to ensure strong financial oversight. Budgetary guidelines are dealt with in detail in the [event subcommittee policy](subcommittee_policy_v2.md).
 
 It is expected that financial transactions are recorded diligently using the financial systems, including recording of income, outgoings and expenditure, and reimbursements. All reimbursements to subcommittee members should fall within [Linux Australia's expense policy](expense_policy.md). The subcommittee is able to implement their own expense policy if approval for an amended expense policy is sought and granted by Council.
+
+###Profits and how they are used
+There is a minimum amount that events are expected to make in order to contribute to operating costs of Linux Australia, such as financials, auditing and insurance. These are essentially treated as an _expense_ for your event. Profit over this amount is returned to Linux Australia to be used to further the [values](https://linux.org.au/values) of the organisation.
 
 ##Event infrastructure
 Once financials are set up, you will need to give consideration to the event infrastructure, such as domain name, event registration system and so on. For larger events, you may wish to use [ZooKeepr](http://zookeepr.org/), custom software written specifically for events such as [linux.conf.au](https://linux.conf.au). Your event may be smaller in scale and you may prefer to have your own domain, and to use an alternative registration gateway. If you need to host a site, you are able to then claim back the costs involved. Alternatively, depending on your needs, the Linux Australia Admin Team may be able to provide hosting infrastructure.
