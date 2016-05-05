@@ -34,6 +34,7 @@ The key activities can be broadly categorised as;
 * Publish minutes of meetings
 * Social media management
 * Infrastructure systems administration
+* Review mailing lists and remove spam entries
 * Meet with LA stakeholders such as Event Subcommittees, key partners, suppliers and members as appropriate
 * Update Subcommittee Register as appropriate
 * Update website content
