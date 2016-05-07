@@ -79,8 +79,10 @@ The key activities can be broadly categorised as;
 
 ##October
 * Undertake GST reporting and payments for Quarter 3
+* Initiate financial audit in preparation for AGM presentation
 
 ##November
 
 ##December
+* Prepare office-bearer reports for AGM
 * Call for Agenda items for AGM
