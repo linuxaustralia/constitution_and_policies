@@ -3,8 +3,6 @@ One of Linux Australia’s goals is to provide members of our community with for
 
 Linux Australia forms conference and event subcommittees in order to delegate responsibility for the organisation of individual conferences and events to enthusiastic and responsible members of our community. This includes delegating access to funds and bank accounts, and delegating authority to contract venues and suppliers for events.
 
-Linux Australia supports enthusiastic community members in organising conferences and other events, by delegating them with the legal ability to act in Linux Australia’s name, including delegating access to funds and bank accounts, and the authority to contract venues and suppliers for events. Linux Australia delegates this authority by forming conference subcommittees.
-
 This subcommittee policy exists to ensure that conferences are run effectively, and to minimise risks and liabilities to both Linux Australia and the conference team. It ensures that Linux Australia has oversight of our events, that our community is aware of the progress of events, and ensures that our events are run to a high standard.
 
 This policy replaces Linux Australia’s former subcommittee policy for events, which involved appointing a subcommittee for each instance of each conference. This previously left open the question of conference selection and succession of conference teams.
