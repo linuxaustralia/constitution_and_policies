@@ -50,16 +50,17 @@ The key activities can be broadly categorised as;
 * Ensure smooth running of linux.conf.au
 
 ##February
-* Ensure new Council is inducted appropriately (permissions, access to systems, briefing on relevant policies etc)
+* Ensure new Council is inducted appropriately (permissions, access to systems, briefing on relevant policies, bank account access etc)
 * Plan for Council Face to Face
+* In March you will receive renewal for PO Box redirection and renewal of PO Box. You only get 2 weeks to pay this, so this is why it's in February.
 
 ##March
 * Seek quotes on Insurance (due 19th April)
+* Hold Council Face to Face
 
 ##April
 * Undertake GST reporting and payments for Quarter 1
 * Finalise insurance renewal
-* Hold Council Face to Face
 
 ##May
 * Renew auDA Membership
@@ -82,7 +83,8 @@ The key activities can be broadly categorised as;
 * Initiate financial audit in preparation for AGM presentation
 
 ##November
+* Prepare financial reports that feed in to the Treasurer's report
 
 ##December
-* Prepare office-bearer reports for AGM
 * Call for Agenda items for AGM
+* Prepare office-bearer reports for AGM
