@@ -43,6 +43,7 @@ The key activities can be broadly categorised as;
 
 ##January
 * Undertake GST reporting and payments for Quarter 4
+* Review Westpac bank account names and ensure they're current and match with Xero
 * Issue final Call for Agenda Items for AGM
 * Issue Agenda for AGM
 * Hold AGM
@@ -60,6 +61,7 @@ The key activities can be broadly categorised as;
 
 ##April
 * Undertake GST reporting and payments for Quarter 1
+* Review Westpac bank account names and ensure they're current and match with Xero
 * Finalise insurance renewal
 
 ##May
@@ -70,6 +72,7 @@ The key activities can be broadly categorised as;
 
 ##July
 * Undertake GST reporting and payments for Quarter 2
+* Review Westpac bank account names and ensure they're current and match with Xero
 * Ensure Budget for October-September of next year is approved
 
 ##August
@@ -80,6 +83,7 @@ The key activities can be broadly categorised as;
 
 ##October
 * Undertake GST reporting and payments for Quarter 3
+* Review Westpac bank account names and ensure they're current and match with Xero
 * Initiate financial audit in preparation for AGM presentation
 
 ##November
