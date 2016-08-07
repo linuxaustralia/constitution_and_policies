@@ -77,6 +77,7 @@ The key activities can be broadly categorised as;
 
 ##August
 * Bid Team venue inspections for linux.conf.au
+* Renew linux.org.au domain via Enetica (email should come to council@linux.org.au)
 
 ##September
 * End of financial year for Linux Australia
@@ -88,6 +89,7 @@ The key activities can be broadly categorised as;
 
 ##November
 * Prepare financial reports that feed in to the Treasurer's report
+* Ensure that linux.org.au domain expiry is renewed (due 4th November every even year)
 
 ##December
 * Call for Agenda items for AGM
