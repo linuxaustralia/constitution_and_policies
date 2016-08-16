@@ -68,4 +68,10 @@ Things to remember:
 >TODO
 
 ##How to reconcile transactions
->TODO
+After payment on invoice is received, Xero's account displays a number of transactions required to be reconciled.
+If there's only one transactions per invoice and values match - it's pretty easy, Xero matches transaction and invoice, and just click OK.
+
+Some complications: 
+
+- [Reconcile multiple transactions into one invoice](http://www.easyonlinebookkeeping.com.au/xero-basics/multiple-payments/).
+- TODO: International transactions 
