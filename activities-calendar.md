@@ -66,6 +66,7 @@ The key activities can be broadly categorised as;
 
 ##May
 * Renew auDA Membership
+* Audit access to Xero to ensure only the appropriate personnel have access. Encourage use of 2FA. 
 
 ##June
 * Do Call for Bids for linux.conf.au
@@ -90,6 +91,7 @@ The key activities can be broadly categorised as;
 ##November
 * Prepare financial reports that feed in to the Treasurer's report
 * Ensure that linux.org.au domain expiry is renewed (due 4th November every even year)
+* Audit access to Xero to ensure only the appropriate personnel have access. Encourage use of 2FA. 
 
 ##December
 * Call for Agenda items for AGM
