@@ -6,7 +6,6 @@ conferences.
 
 TL;DR
 -----
-Be excellent to each other.
 
 Linux Australia aims to provide fun, welcoming and professional environments so
 that diverse groups of people - regardless of age, race, gender identity or
