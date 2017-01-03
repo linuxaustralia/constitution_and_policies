@@ -38,8 +38,8 @@ All presentation material should be suitable for people aged 12 and above.
 Any public presentation or communication which is part of any event, including 
 but not limited to keynotes, presentations, lightning talks, birds-of-a-feather
 (BoF) sessions/open spaces, addresses, mailing list posts, forums, chat rooms, 
-and other officially endorsed online spaces, is subject to this code of conduct 
-and thus may not contain:
+and other spaces officially associated with the conference, is subject to this
+code of conduct and thus may not contain:
 * sexual or violent language and/or imagery;
 * exclusionary language;
 * insults or ad-hominem attacks.
