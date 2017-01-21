@@ -87,6 +87,7 @@ The key activities can be broadly categorised as;
 * Undertake GST reporting and payments for Quarter 3
 * Review Westpac bank account names and ensure they're current and match with Xero
 * Initiate financial audit in preparation for AGM presentation
+* Get in contact with the Rusty Wrench team (rusty-wrench@lists.linux.org.au) and discuss and/or initiate nomination process, timeframe and if the Rusty Wrench will be awarded. 
 
 ##November
 * Prepare financial reports that feed in to the Treasurer's report
