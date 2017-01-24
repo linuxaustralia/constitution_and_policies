@@ -41,6 +41,7 @@ Once your Subcommittee is formed, then;
 * [ ] Undertake due diligence to ensure that members of the event subcommittee are members of Linux Australia
 * [ ] Meet with the Subcommittee to set expectations around minimum profits to cover operating costs (to be treated as an expense in budgeting) and how additional profits are used to further the organisation's values. 
 * [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
+* [ ] Provide templated Sponsorship Agreement if requiredy
 * [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
 * [ ] Provide access to Westpac banking
 * [ ] Provide access to Xero
@@ -48,7 +49,6 @@ Once your Subcommittee is formed, then;
 * [ ] Undertake approvals in Westpac for large transactions in a timely manner
 * [ ] Provide assistance with event infrastructure like website, registration system and payment gateway, if required
 * [ ] Provide an insurance Certificate of Currency if required
-* [ ] Provide templated Sponsorship Agreement if required
 * [ ] Review Sponsorship Agreement if required
 * [ ] Post event report is considered and used as an input into continuous improvement activities
 
