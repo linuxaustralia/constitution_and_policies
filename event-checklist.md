@@ -19,7 +19,7 @@ The steps can be summarised as;
 * [ ] Read through the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Ensure all members of your team are [members of Linux Australia](https://www.linux.org.au/membership)
 * [ ] Request a new subcommittee be created by [emailing the Council](mailto:council@linux.org.au). An example of what should be included in the request is given below.
-* [ ] Meet with representatives from Linux Australia Council to discuss expectations regarding the amount of profit your event is expected to make. 
+* [ ] Meet with representatives from Linux Australia Council to discuss expectations regarding the amount of profit your event is expected to make.
 * [ ] Provide the full names of the subcommittee members who will be responsible for financials for the subcommittee so that Linux Australia can ensure that these details are provided to Westpac correctly
 
 Once your Subcommittee is formed, then;
@@ -39,7 +39,7 @@ Once your Subcommittee is formed, then;
 * [ ] Ensure the event team is aware of the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Raise a motion to form a new subcommittee based on the [event subcommittee policy](subcommittee_policy_v2.md). A draft motion is provided below.
 * [ ] Undertake due diligence to ensure that members of the event subcommittee are members of Linux Australia
-* [ ] Meet with the Subcommittee to set expectations around minimum profits to cover operating costs (to be treated as an expense in budgeting) and how additional profits are used to further the organisation's values. 
+* [ ] Meet with the Subcommittee to set expectations around minimum profits to cover operating costs (to be treated as an expense in budgeting) and how additional profits are used to further the organisation's values.
 * [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
 * [ ] Provide templated Sponsorship Agreement if required
 * [ ] Review the budget provided by the event subcommittee and provide approval and/or further guidance
