@@ -49,6 +49,7 @@ The key activities can be broadly categorised as;
 * Hold AGM
 * Record minutes of AGM, and publish minutes of AGM
 * Ensure smooth running of linux.conf.au
+* APNIC Yearly renewal is due on 31 January, this is around $AUD 2000
 
 ##February
 * Ensure new Council is inducted appropriately (permissions, access to systems, briefing on relevant policies, bank account access etc)
