@@ -1,5 +1,7 @@
 #Activities calendar
+
 ##Introduction
+
 The Linux Australia Council need to undertake a range of activities throughout the year. This document articulates those activities, when they have to be done and why, and serves as a planning tool for the Linux Australia Council.
 
 ##Overview
@@ -79,7 +81,7 @@ The key activities can be broadly categorised as;
 
 ##August
 * Bid Team venue inspections for linux.conf.au
-* Renew linux.org.au domain via Enetica (email should come to council@linux.org.au)
+* Renew linux.org.au domain via Enetica (email should come to council@linux.org.au) - last modified 26th August 2016, likely to fall due in even years, but we can't tell though whois.
 
 ##September
 * End of financial year for Linux Australia
