@@ -96,6 +96,8 @@ are not appropriate:
 * unwarranted exclusion from conference or related events based on
   age, gender, sexual orientation, disability, physical appearance, body size,
   race, religion;
+* "platform bashing" - unsubstantiated claims about the quality or validity of
+  languages, technologies, etc.
 
 We want everyone to have a good time at our events.
 
