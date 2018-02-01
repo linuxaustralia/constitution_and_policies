@@ -83,7 +83,7 @@ The key activities can be broadly categorised as;
 * Bid Team venue inspections for linux.conf.au
 * Renew linux.org.au domain via Enetica (email should come to council@linux.org.au) - last modified 26th August 2016, likely to fall due in even years, but we can't tell though whois.
 
-##September
+## September
 * End of financial year for Linux Australia
 
 ## October
