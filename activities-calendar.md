@@ -99,4 +99,5 @@ The key activities can be broadly categorised as;
 
 ## December
 * Call for Agenda items for AGM
+* Call for nominations for Council
 * Prepare office-bearer reports for AGM
