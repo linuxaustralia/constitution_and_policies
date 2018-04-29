@@ -57,6 +57,7 @@ The key activities can be broadly categorised as;
 * Ensure new Council is inducted appropriately (permissions, access to systems, briefing on relevant policies, bank account access etc)
 * Plan for Council Face to Face
 * In March you will receive renewal for PO Box redirection and renewal of PO Box. You only get 2 weeks to pay this, so this is why it's in February.
+* Submit NSW Fair Trading "Annual summary of financial affairs - Tier 1" form after AGM.
 
 ## March
 * Seek quotes on Insurance (due 19th April)
