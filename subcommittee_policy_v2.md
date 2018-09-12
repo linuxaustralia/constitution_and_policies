@@ -133,5 +133,5 @@ Budgeting and Conference Finance
 * Where the subcommittee passes an expulsion motion, the Council will, at the first available opportunity, ensure that the subcommittee register is updated, and that a replacement is appointed in line with the policy.
 
 ### Dispute Resolution
-* Any member of the association may appeal to the Linux Australia council regarding a minuted decision of the subcommittee to request arbitration. In this case, arbitration may be performed at the discretion of council.
-*If two subcommittee members appeal to the Linux Australia council regarding a minuted decision of the subcommittee, the Linux Australia council MUST engage in arbitration.
+* Any member of the association may appeal to the Linux Australia council regarding a minuted decision of the subcommittee to request arbitration. In this case, arbitration may be performed at the discretion of council. 
+*If two subcommittee members appeal to the Linux Australia council regarding a minuted decision of the subcommittee, the Linux Australia council MUST engage in arbitration.*
