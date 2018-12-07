@@ -1,15 +1,22 @@
-#﻿Mailing list policy
-##Definitions
-###Council
+Mailing list policy
+===================
+
+Definitions
+-----------
+
+### Council
 The member-elected governing body of Linux Australia. Council has the authority to create, moderate and delete lists and list postings for all mailing lists it hosts, and the authority to delegate these actions to Moderators. Council is responsible for the creation, promulgation and enforcement of this policy.
 
-###Moderator
+### Moderator
 A natural person with delegated authority to create, moderate, and delete lists and list postings in line with this policy. A moderator is appointed at the pleasure of Council and may be changed at Council's discretion. Council authorises Moderators to act without seeking prior approval from Council and trusts them to exercise their duties in a responsible and professional manner.
 
 
-###List member
+### List member
 A natural person, who may or may not be a member of Linux Australia, who has voluntarily or as part of their membership of Linux Australia, been subscribed to one or more mailing lists hosted by Linux Australia. To continue being a list member, the list member accepts to be bound by this policy.
-##Introduction and rationale
+
+Introduction and rationale
+--------------------------
+
 This document outlines policy in relation to acceptable use of mailing lists hosted by Linux Australia. This policy exists so that;
 
 * List participants have a clear understanding of what is acceptable
@@ -19,7 +26,8 @@ This document outlines policy in relation to acceptable use of mailing lists hos
 
 This policy therefore articulates boundaries around acceptable use of mailing lists hosted by Linux Australia, and defines appropriate actions and recourse where those boundaries are transgressed.
 
-##Policy
+Policy
+------
 
 1. Creation of lists
 
