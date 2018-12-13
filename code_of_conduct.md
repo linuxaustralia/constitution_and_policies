@@ -35,9 +35,10 @@ Be inclusive
 ------------
 All presentation material should be suitable for people aged 12 and above.
 
-Any public presentation which is part of any event, including but not limited
-to keynotes, presentations, lightning talks, addresses, mailing list posts and
-forums, is subject to this code of conduct and thus may not contain:
+Any public presentation or communication which is part of any event and/or 
+other spaces associated with the conference, is subject to this code of 
+conduct and thus may not contain:
+
 * sexual or violent imagery;
 * exclusionary language;
 * insults or ad-hominem attacks.
