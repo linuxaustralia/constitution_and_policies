@@ -10,10 +10,9 @@ Be excellent to each other.
 
 All Linux Australia events are intended to be environments where delegates 
 can get together to learn from and be inspired by each other about all things 
-Free and Open Source.
-Linux Australia aims to foster an atmosphere of trust, openness, candour and 
-safety where all delegates respect the diversity of each other’s talents, 
-abilities and experiences and value the input of others.
+Free and Open Source. Linux Australia aims to foster an atmosphere of trust, 
+openness, candour and safety where all delegates respect the diversity of each 
+other’s talents, abilities and experiences and value the input of others.
 
 Linux Australia is committed to the ideals expressed in our Values Statement
 [http://linux.org.au/values] and ask all our members, speakers, volunteers,
