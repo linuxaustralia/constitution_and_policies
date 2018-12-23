@@ -605,7 +605,7 @@ Note: Schedule 1 of the Act provides that an association’s constitution is to 
 
   (a) to facilitate the communication of information relating to inventions, results, techniques, and governance of open source;
 
-  (b) to support open source projects and the creators of open source ;
+   (b) to support open source projects and the creators of open source;
 
   (c) to support and promote the adoption of open source;
 
