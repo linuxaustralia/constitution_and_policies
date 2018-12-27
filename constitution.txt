@@ -603,17 +603,17 @@ Note: Schedule 1 of the Act provides that an association’s constitution is to 
 
 (1) The objects for which the association is established are:
 
-  (a) to facilitate the communication of information relating to inventions, results, techniques, and governance of open source;
+  (a) to facilitate the communication of information relating to inventions, results, techniques, and governance of open source and related open technologies;
 
-  (b) to support open source projects and the contributors to open source;
+  (b) to support open source and related open technologies projects and the contributors to open source and related open technologies;
 
-  (c) to support and promote the adoption of open source;
+  (c) to support and promote the adoption of open source and related open technologies;
 
-  (d) to support and promote awareness and understanding of open source;
+  (d) to support and promote awareness and understanding of open source and related open technologies;
 
-  (e) to conduct open source advocacy with the government, business and civil society;
+  (e) to conduct open source and related open technologies advocacy with the government, business and civil society;
 
-  (f) to create a network for related local and online open source communities.
+  (f) to create a network for related local and online open source and related open technologies communities.
 
 (2) The association must pursue charitable purposes only and must apply its income in promoting those purposes.
 
