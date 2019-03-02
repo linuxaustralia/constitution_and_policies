@@ -118,6 +118,10 @@ but do not have to be public.
 * Pecuniary subcommittees must provide a read only link to their live
   budget.
 
+* A list of all assistance and resources the subcommittee gets
+  from Linux Australia beyond the resources Linux Australia provides 
+  for free to all subcommittees.
+
 
 Establishing a subcommittee
 ---------------------------
@@ -302,7 +306,7 @@ Subcommittee Wind Up
   * Trading subcommittees do not keep the accounting system
     up to date.
 
-  * The subcommittee for not hold annual board elections
+  * The subcommittee for not hold annual board elections.
 
 * On wind up all subcommittee assets revert to Linux Australia's
   general asset pool.  However if a Standing subcommittee reforms
@@ -314,6 +318,13 @@ Subcommittee Wind Up
   transfer their assets another entity, provided that entities
   objectives align with Linux Australia's statement of objects and
   the subcommittees objectives.
-  
+
+* Event subcommittees must supply Linux Australia the following:
+
+  * A list of attendees containing names, email addresses, gender,
+    and whether they wish to become a member of Linux Australia.
+    
+  * A copy (eg PDF) of all invoices that were not issued by Xero.
+
 [FPG]: http://linux.org.au/policies/financial-procedure-guide "Financial Process Guide"
 [EP]: https://github.com/linuxaustralia/constitution_and_policies/blob/master/expense_policy.md "Expenses Policy"
