@@ -106,7 +106,9 @@ Handover and Delegation of Authority
 
 ### Conference Proceeds
 * The council takes care of a number of expenses conferences incur, such as insurance, accounting/tax issues, credit card processing fees. The council will provide the amounts/formulas for these entries to be included as expenses in the subcommittee budget.
-* Conferences must nominate a level of contingency for unforeseen expenses, and may be asked to nominate a surplus component in their budget. These amounts must meet the approval of council.  The surplus proceeds of a conference contribute to the ongoing financial stability of Linux Australia and its ability to facilitate and support open technology communities.
+* Conferences must nominate a level of contingency for unforeseen expenses which must meet the approval of council.
+* A Conference may earmark any excess proceeds to be spent on future events, for supporting the community related to the conference, or to support international communities related to the conference.
+* Conference are encouraged to direct a portion of their surplus proceeds to contribute to the ongoing financial stability of Linux Australia and its ability to facilitate and support open technology communities.
 
 ### Reporting
 * The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
