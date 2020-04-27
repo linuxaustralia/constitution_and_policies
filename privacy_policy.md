@@ -4,7 +4,7 @@ Linux Australia Privacy Policy
 # About this policy
 
 Linux Australia, Inc.  (“Linux Australia”) operates under the Australian
-Privacy Principles as defined in the Australian Privacy Act 1988.  While
+Privacy Principles as defined in the *Australian Privacy Act 1988*.  While
 Linux Australia is not required to be bound by the Privacy Act, Linux
 Australia has chosen to follow the Australian Privacy Principles in the
 interests of openness and transparency.  To this end, this Privacy Policy
@@ -13,10 +13,10 @@ Australia.
 
 This policy is written in simple language.  The specific obligations of
 Linux Australia when collecting and handling your personal information are
-outlined in the Privacy Act 1988 with particular reference to the Australian
-Privacy Principles found in that Act.  Linux Australia will update this
-privacy policy when our information handling practices change.  Updates will
-be provided on our website.
+outlined in the *Privacy Act 1988* with particular reference to the
+Australian Privacy Principles found in that Act.  Linux Australia will
+update this privacy policy when our information handling practices change. 
+Updates will be provided on our website.
 
 This policy was last updated on 16 December 2019.
 
@@ -208,7 +208,7 @@ Upon discovery of a data breach, Linux Australia will:
 * Initiate immediate action to secure the affected systems and the
   information held on them.
 * Make every effort to inform victims of the breach and its nature.
-* Alert relevant authorities as required under the *Australian Privacy Act*.
+* Alert relevant authorities as required under the Australian *Privacy Act*.
 * Comply with all requests by law enforcement authorities.
 
 # Accessing and correcting personal information
