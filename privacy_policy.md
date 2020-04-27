@@ -142,7 +142,7 @@ Google) on their websites.
 
 ## Mailing lists
 
-Linux Australia run a number of opt-in mailing lists for the benefit of
+Linux Australia runs a number of opt-in mailing lists for the benefit of
 members and the community.  These mailing lists are publicly accessible and
 are archived for future reference.  Subscribers to these mailing lists are
 responsible for all material they choose to post.
