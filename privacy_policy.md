@@ -173,10 +173,9 @@ disclose your personal information to any third parties unless this is
 required to carry out normal activities or we are compelled to by law
 enforcement.
 
-When shipping products you have purchased, Linux Australia will disclose
-your delivery address to the courier company used to deliver your goods. 
-Your address may also be disclosed to the postal service if there is a
-requirement to send items to you.
+When shipping products you have purchased or sending items to you,
+Linux Australia will disclose your delivery address to the postal service or
+freight agents used to deliver your goods or items.
 
 Linux Australia will never sell the personal information it collects.
 
