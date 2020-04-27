@@ -18,7 +18,7 @@ Australian Privacy Principles found in that Act.  Linux Australia will
 update this privacy policy when our information handling practices change. 
 Updates will be provided on our website.
 
-This policy was last updated on 16 December 2019.
+This policy was last updated on 27 April 2020.
 
 # Overview
 
