@@ -100,8 +100,8 @@ parties.
 
 Cookies are small data files transferred onto computers or devices by
 websites for record-keeping purposes and to enhance functionality on the
-website.  No cookies are created or used by the Linux Australia website
-itself.
+website.  The Linux Australia website creates and uses cookies solely to
+manage your interaction with the website (your login status for example).
 
 Browsing the Linux Australia website will typically cause a Google Analytics
 cookie to be set due to the use of the third party Google Analytics service. 
