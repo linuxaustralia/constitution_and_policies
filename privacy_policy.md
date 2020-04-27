@@ -83,7 +83,7 @@ which information about you may be collected.
 Linux Australia may employ third party analytics companies to provide data
 about how you interact with our website.  Presently this service is provided
 by Google Analytics.  Information which may be collected when browsing our
-website include:
+website include but is not limited to:
 * Your device's IP address
 * Device screen size 
 * Device type, operating system and browser information 
