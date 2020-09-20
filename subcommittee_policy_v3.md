@@ -253,12 +253,12 @@ A subcommittee is established through the following steps.
 
 * The gross profit of an event, expressed as a percentage of the total
   income, is defined as
-      100 * ( (<income> - <expenses>) / <income>)
-  where <income> represents the total amount of money received by the *Event
-  subcommittee* in relation to the event, and <expenses> is the total cost of
+      "100 * ( (INCOME - EXPENSES) / INCOME)"
+  where INCOME represents the total amount of money received by the *Event
+  subcommittee* in relation to the event, and EXPENSES is the total cost of
   staging the event.  Money the Event’s sales orders and invoices say is
   being collected for a specific charitable purpose, and is paid without any
-  deductions to that charity can be excluded from <income> and <expenses>. 
+  deductions to that charity can be excluded from INCOME and EXPENSES. 
   Events requiring funding from Linux Australia are required to achieve a
   minimum gross profit which is returned to Linux Australia.  This is
   referred to as the event’s “Community Contribution” and is currently set
