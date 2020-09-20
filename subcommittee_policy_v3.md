@@ -253,7 +253,7 @@ A subcommittee is established through the following steps.
 
 * The gross profit of an event, expressed as a percentage of the total
   income, is defined as\
-      100 * ( (INCOME - EXPENSES) / INCOME)\
+  &emsp; 100 * ( (INCOME - EXPENSES) / INCOME)\
   where INCOME represents the total amount of money received by the *Event
   subcommittee* in relation to the event, and EXPENSES is the total cost of
   staging the event.  Money the Event’s sales orders and invoices say is
