@@ -373,7 +373,9 @@ must:
 * Keep their accounting records up to date and in particular they must
   ensure all bank accounts are reconciled with the accounting system within
   a week.  They must pay bills on or before the due date.  They must follow
-  the Financial Process Guide (FPG) and
+  the
+  [Financial Procedure Guide](https://github.com/linuxaustralia/constitution_and_policies/blob/master/financial_procedure_guide.md)
+  (FPG) and
   [Expenses Policy (EP)](https://github.com/linuxaustralia/constitution_and_policies/blob/master/expense_policy.md)
   (these will be covered in the induction.)
 * An *Independent subcommittee* may not incur liabilities that exceed the
