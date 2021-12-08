@@ -170,8 +170,8 @@ this policy) and the terms and conditions of the respective online services.
 
 Regardless of how the information was collected, Linux Australia does not
 disclose your personal information to any third parties unless this is
-required to carry out normal activities or we are compelled to by law
-enforcement.
+required to carry out normal activities or we are compelled to by law, law
+enforcement or the Linux Australia Constitution.
 
 When shipping products you have purchased or sending items to you,
 Linux Australia will disclose your delivery address to the postal service or
