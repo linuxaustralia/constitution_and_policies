@@ -83,9 +83,9 @@ any intimidation, harassment, or abusive or discriminatory behaviour.
 Here are some examples of behaviours that have occurred at past events which
 are not appropriate:
 
-* offensive verbal or written remarks related but not limited to
-  gender, sex, sexual orientation, disability, physical appearance, body
-  size, race or religion;
+* offensive verbal or written remarks related but not limited to age,
+  gender, gender identity, gender expression, sex characteristics, sexual
+  orientation, disability, physical appearance, body size, race or religion;
 * sexual or violent images in public spaces (including presentation slides);
 * deliberate intimidation;
 * stalking or following;
@@ -96,9 +96,9 @@ are not appropriate:
 * unwelcome sexual attention;
 * sexist, racist, or other exclusionary jokes;
 * unwarranted exclusion from conference or related events based on
-  attributes such as (but not limited to) age, gender, sex, sexual
-  orientation, disability, physical appearance, body size, race,
-  religion;
+  attributes such as (but not limited to) age, gender, gender identity, gender
+  expression, sex characteristics, sexual orientation, disability, physical
+  appearance, body size, race, religion;
 
 We want everyone to have a good time at our events.
 
