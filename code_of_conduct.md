@@ -4,10 +4,6 @@ Code of Conduct (template)
 This code of conduct applies to our community and serves as a template to our
 conferences.
 
-TL;DR
------
-Be excellent to each other.
-
 All Linux Australia events are intended to be environments where delegates 
 can get together to learn from and be inspired by each other about all things 
 Free and Open Source. Linux Australia aims to foster an atmosphere of trust, 
