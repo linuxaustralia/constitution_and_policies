@@ -43,64 +43,63 @@ Policy
 
 1. Creation of a *Communication Channel*
 
-  a. Any Member of Linux Australia may request in writing to *Council* that a *Communication Channel* be created.  The request will contain the purpose of the *Communication Channel* and the names of 2 (two) proposed *Moderator*s, who will be Members of Linux Australia. *Council* will consider the creation request, and if approved ensure the *communication channel* is created with the nominated *Moderator*s ascribed appropriate privileges in line with this policy.
+   a. Any Member of Linux Australia may request in writing to *Council* that a *Communication Channel* be created.  The request will contain the purpose of the *Communication Channel* and the names of 2 (two) proposed *Moderator*s, who will be Members of Linux Australia. *Council* will consider the creation request, and if approved ensure the *communication channel* is created with the nominated *Moderator*s ascribed appropriate privileges in line with this policy.
 
-  b. The decision to reject a *Communication Channel* creation request is final. In the case of rejection, the *Council* must provide a justification for this in writing to the requestor. The requestor may submit a new request at a later point in time if the situation or context for the rejection changes.
+   b. The decision to reject a *Communication Channel* creation request is final. In the case of rejection, the *Council* must provide a justification for this in writing to the requestor. The requestor may submit a new request at a later point in time if the situation or context for the rejection changes.
 
-  c. By default and when supported by the platform, *Communication Channel*s will be created such that;
-    1. They are publicly viewable and archived
-    2. That subscription requests must be confirmed
-    3. That only *Channel Member*s may *Post* to the channel
+   c. By default and when supported by the platform, *Communication Channel*s will be created such that;
+      1. They are publicly viewable and archived
+      2. That subscription requests must be confirmed
+      3. That only *Channel Member*s may *Post* to the channel
 
     *Moderator*s will be able to deviate from these defaults at their discretion to best serve the needs of *Channel Member*s.
 
-  d. By default and when supported by the platform, *Communication Channel*s will be in moderation.  This is to protect *Channel Member*s, *Channel Moderator*s and Linux Australia from legal action over defamatory *post*s.  If desired, *Moderator*s may discuss the removal of moderation with *Council*.  *Council* may agree that moderation can be turned off if it can be demonstrated that the risks are acceptably low within the context of the *Communication Channel*.
+   d. By default and when supported by the platform, *Communication Channel*s will be in moderation.  This is to protect *Channel Member*s, *Channel Moderator*s and Linux Australia from legal action over defamatory *post*s.  If desired, *Moderator*s may discuss the removal of moderation with *Council*.  *Council* may agree that moderation can be turned off if it can be demonstrated that the risks are acceptably low within the context of the *Communication Channel*.
 
 2. Appointment of *Moderator*s
 
-  a. At creation, each *Communication Channel* will have two *Moderator*s appointed.  *Moderator*s will ensure that there are 2 (two) *Moderator*s active for each *Communication Channel* at all times and will inform *Council* in writing if new *Moderator*s should be appointed for a *Communication Channel*.
+   a. At creation, each *Communication Channel* will have two *Moderator*s appointed.  *Moderator*s will ensure that there are 2 (two) *Moderator*s active for each *Communication Channel* at all times and will inform *Council* in writing if new *Moderator*s should be appointed for a *Communication Channel*.
 
-  b. *Council* will consider such a request and act to ensure ongoing moderation for a *Communication Channel*, or alternatively determine that the *Communication Channel* should be decommissioned.
+   b. *Council* will consider such a request and act to ensure ongoing moderation for a *Communication Channel*, or alternatively determine that the *Communication Channel* should be decommissioned.
 
 3. Acceptable use of *Communication Channel*
 
-  a. A Linux Australia *Communication Channel* may be created to support discussion, free and open exchange of ideas and to build social and intellectual capital amongst *Channel Member*s in the fields of open technology, culture, hardware and software.
+   a. A Linux Australia *Communication Channel* may be created to support discussion, free and open exchange of ideas and to build social and intellectual capital amongst *Channel Member*s in the fields of open technology, culture, hardware and software.
 
-  b. A *Channel Member* may subscribe voluntarily or choose to be subscribed as part of their membership of Linux Australia if they are a member.
+   b. A *Channel Member* may subscribe voluntarily or choose to be subscribed as part of their membership of Linux Australia if they are a member.
 
-  c. A *Channel Member* shall be able to unsubscribe at any time.
+   c. A *Channel Member* shall be able to unsubscribe at any time.
 
-  d. A *Channel Member* shall ensure that *Post*s they send to a
-     *Communications Channel* are in line with our *Code of Conduct*.
+   d. A *Channel Member* shall ensure that *Post*s they send to a *Communications Channel* are in line with our *Code of Conduct*.
 
 4. Moderation of Acceptable Use of *Communication Channel*
 
-  a. Should a violation of clause 3(d) occur, the *Moderator*s of a *Communication Channel* should confer and reach a consensus that a violation has occurred and that response action is warranted.
+   a. Should a violation of clause 3(d) occur, the *Moderator*s of a *Communication Channel* should confer and reach a consensus that a violation has occurred and that response action is warranted.
 
-  b. The *Moderator*s may choose from an escalating list of response actions to ensure the appropriate use of the *Communication Channel*, including;
+   b. The *Moderator*s may choose from an escalating list of response actions to ensure the appropriate use of the *Communication Channel*, including;
 
-    1. Private communication to the transgressor outlining how they have transgressed the policy and requesting them to refrain
+      1. Private communication to the transgressor outlining how they have transgressed the policy and requesting them to refrain
 
-    2. Temporarily banning the transgressor from the *Communication Channel* for a period not exceeding thirty (30) days
+      2. Temporarily banning the transgressor from the *Communication Channel* for a period not exceeding thirty (30) days
 
-    3. Placing the *Communication Channel* into emergency moderation or 'slowdown' mode
+      3. Placing the *Communication Channel* into emergency moderation or 'slowdown' mode
 
-    4. Permanently banning the transgressor from the *Communication Channel*
+      4. Permanently banning the transgressor from the *Communication Channel*
 
-    5. Recommending to *Council* that the transgressor’s membership of Linux Australia (if a member) be revoked in line with the Constitution
+      5. Recommending to *Council* that the transgressor’s membership of Linux Australia (if a member) be revoked in line with the Constitution
 
-    6. Other actions as deemed appropriate to the context and circumstance and agreed to by *Moderator*s and *Council*
+      6. Other actions as deemed appropriate to the context and circumstance and agreed to by *Moderator*s and *Council*
 
 5. Right to Appeal
 
-  a. A transgressor who is the target of a response action from a moderator under 4(b) may appeal to *Council*.
+   a. A transgressor who is the target of a response action from a moderator under 4(b) may appeal to *Council*.
 
-  b. *Council* will deliberate and provide a ruling within 14 (fourteen) days of receiving an appeal.
+   b. *Council* will deliberate and provide a ruling within 14 (fourteen) days of receiving an appeal.
 
-  c. *Council* may choose from the following outcomes;
+   c. *Council* may choose from the following outcomes;
 
-    1. *Council* may uphold the actions of the *Moderator*s
+      1. *Council* may uphold the actions of the *Moderator*s
 
-    2. *Council* may find that the actions of the *Moderator*s were not in line with this policy and choose to counsel the *Moderator*s or revoke their Moderation privileges and reinstate any privileges of the Channel Member
+      2. *Council* may find that the actions of the *Moderator*s were not in line with this policy and choose to counsel the *Moderator*s or revoke their Moderation privileges and reinstate any privileges of the Channel Member
 
-    3. *Council* may find that the actions of the *Moderator*s were lenient and apply harsher actions to the transgressor
+      3. *Council* may find that the actions of the *Moderator*s were lenient and apply harsher actions to the transgressor
