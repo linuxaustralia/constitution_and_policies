@@ -1,8 +1,8 @@
-#Event committee checklist
-##Introduction
+# Event committee checklist
+## Introduction
 Teams often run events under the auspices of [Linux Australia](https://www.linux.org.au). This document articulates the milestones you need to check off to ensure compliance with Linux Australia policies, good operations management - and to deliver a great event.
 
-##Overview
+## Overview
 The steps can be summarised as;
 1. Form an event subcommittee under the [event subcommittee policy](subcommittee_policy_v2.md).  
 2. Understand financial arrangements and set up banking access
@@ -13,7 +13,7 @@ The steps can be summarised as;
 7. Ensure Sponsorship Agreement is in place
 8. Ensure Post Event Report is written and distributed
 
-##Checklist for Event Teams
+## Checklist for Event Teams
 
 * [ ] Get your event team together and ensure you have a balanced mix of skills
 * [ ] Read through the [event subcommittee policy](subcommittee_policy_v2.md)
@@ -37,7 +37,7 @@ Once your Subcommittee is formed, then;
 * [ ] Post event report is provided to Linux Australia Council
 
 
-##Checklist for Linux Australia
+## Checklist for Linux Australia
 * [ ] Ensure the event team is aware of the [event subcommittee policy](subcommittee_policy_v2.md)
 * [ ] Provide templated budgets to the event subcommittee to use as the basis for their budget
 * [ ] Meet with the Subcommittee to set expectations around minimum profits to cover operating costs (to be treated as an expense in budgeting) and how additional profits are used to further the organisation's values.
@@ -56,12 +56,12 @@ Once your Subcommittee is formed, then;
 
 This is also [detailed in the Event Subcommittee Policy, which you may wish to refer to](subcommittee_policy_v2.md).
 
-##Forming an event subcommittee
+## Forming an event subcommittee
 Forming a high performing team doesn't happen by accident, so ensure that you have the right mix of skills, talent and leadership. It's a good idea to have a clear leader, a 2IC and a Treasurer on your event. Once you have your team together, ensure that they're members of Linux Australia. You must be a member of Linux Australia to sit on a subcommittee, as per the [Linux Australia Constitution](consitution.txt).
 
 When you're ready to form an Event Subcommittee, [email the Linux Australia Council](mailto:council@linux.org.au) with your proposal. Your proposal should contain the elements below.
 
-###Draft Proposal
+### Draft Proposal
 
 * The goal of the subcommittee - for instance;
 
@@ -82,7 +82,7 @@ The initial budget is attached, showing that the event is viable with low sponso
 
 ```
 
-###Draft motion
+### Draft motion
 
 The Linux Australia Council will then consider the proposal  event subcommittee, and if comfortable will raise a Motion to form the subcommittee. The Council will consider the Motion and will notify you if it has passed, or provide a reason for it being rejected.
 
@@ -91,7 +91,7 @@ MOTION by YOUR NAME that an Event Subcommittee is formed to run YOUR EVENT, base
 * Member - Role
 * Member - Role
 
-##Setting up financials
+## Setting up financials
 Once your event subcommittee has formed, Linux Australia will discuss financial arrangements with you and set expectations around the level of profit from your event that will be returned to Linux Australia to cover administrative costs.
 
 The Linux Australia Council will provide you with access to two systems for financial administration, being;
@@ -112,25 +112,25 @@ It is expected that your event subcommittee will provide budgets for review by t
 
 It is expected that financial transactions are recorded diligently using the financial systems, including recording of income, outgoings and expenditure, and reimbursements. All reimbursements to subcommittee members should fall within [Linux Australia's expense policy](expense_policy.md). The subcommittee is able to implement their own expense policy if approval for an amended expense policy is sought and granted by Council.
 
-###Profits and how they are used
+### Profits and how they are used
 There is a minimum amount that events are expected to make in order to contribute to operating costs of Linux Australia, such as financials, auditing and insurance. These are essentially treated as an _expense_ for your event. Profit over this amount is returned to Linux Australia to be used to further the [values](https://linux.org.au/values) of the organisation.
 
-##Event infrastructure
+## Event infrastructure
 Once financials are set up, you will need to give consideration to the event infrastructure, such as domain name, event registration system and so on. For larger events, you may wish to use [ZooKeepr](http://zookeepr.org/), custom software written specifically for events such as [linux.conf.au](https://linux.conf.au). Your event may be smaller in scale and you may prefer to have your own domain, and to use an alternative registration gateway. If you need to host a site, you are able to then claim back the costs involved. Alternatively, depending on your needs, the Linux Australia Admin Team may be able to provide hosting infrastructure.
 
-##Event code of conduct
+## Event code of conduct
 It is expected that your event adopt a Code of Conduct, similar in scope and nature to the [Linux Australia event Code of Conduct](code_of_conduct.md). If your event is going to adopt a Code of Conduct different to the Linux Australia Code of Conduct, the event Code of Conduct must be approved by Linux Australia Council.
 
-##Insurance
+## Insurance
 Linux Australia holds a broad insurance policy covering items such as Volunteers at Linux Australia events and public liability insurance. The event subcommittee must ensure that the coverage held by Linux Australia is suitable for the activities being held under the event. The venue where the event is being held may request a Certificate of Currency of insurance, which the Linux Australia Council can provide.
 
-##Recognition of Linux Australia
+## Recognition of Linux Australia
 Your event's branding and website should clearly indicate that your event is held under the auspices of Linux Australia, and should provide a link back to [Linux Australia](https://www.linux.org.au).
 
-##Sponsorship agreement
+## Sponsorship agreement
 If your event has Sponsors, it is expected that each Sponsor will sign a Sponsorship Agreement. This helps to set expectations for both parties and help ensure long term productive sponsor relationships. Linux Australia can provide templated Sponsorship Agreements.
 
-##Post event report
+## Post event report
 Your event is required to provide a post event report to the Linux Australia Council as soon as practicable after the closure of the event. The depth of the report will vary based on the size, scale and nature of the event, but at a minimum should provide the following information;
 
 * Estimated attendance
