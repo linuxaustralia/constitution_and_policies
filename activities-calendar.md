@@ -57,7 +57,8 @@ The key activities can be broadly categorised as;
 * Ensure new Council is inducted appropriately (permissions, access to systems, briefing on relevant policies, bank account access etc)
 * Plan for Council Face to Face
 * In March you will receive renewal for PO Box redirection and renewal of PO Box. You only get 2 weeks to pay this, so this is why it's in February.
-* Submit NSW Fair Trading "Annual summary of financial affairs - Tier 1" form after AGM.
+* Submit NSW Fair Trading [Annual summary of financial affairs - Tier 1](https://www.service.nsw.gov.au/transaction/lodge-an-annual-summary-of-financial-affairs-tier-1-and-2-associations) form after AGM.  Deadline: arrives within 30 days of AGM.
+* Submit [ASIC Form 490](https://asic.gov.au/regulatory-resources/forms/forms-folder/490-notification-of-change-to-directors-of-a-registered-body/).  Must be sent via registered email.  Deadline: arrives within 30 days of AGM.
 
 ## March
 * Seek quotes on Insurance (due 19th April)
