@@ -40,6 +40,6 @@ For grants that include the funding of hardware purchases to support Open Source
 
 * An individual or group may receive at most one grant of this nature per grant cycle.
 
-* In the project's final report provided to Linux Australia, include a review of what went well and what did not. If the project’s objectives were not met, explain what might have helped the project achieve more.  If applicable, describe any follow up activities which could build on the progress made and how others might be able to assist to provide additional value for the broader community.
+* In the project's final report provided to Linux Australia, include a review of what went well and what did not.  If the project’s objectives were not met, explain what might have helped the project achieve more.  If applicable, describe any follow up activities which could build on the progress made and how others might be able to assist to provide additional value for the broader community.  If the grant included funding for hardware, explain the future plans for that hardware.
 
 The Linux Australia Council welcomes the opportunity to work with the authors of grant applications if assistance is needed to transform ideas into a viable proposal.
