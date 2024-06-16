@@ -33,7 +33,7 @@ In contrast, proposals which are unlikely to be accepted include:
 
 For grants that include the funding of hardware purchases to support Open Source software development:
 
-* The grant application should include a description of what the project aims to achieve.  For example:
+* The grant application should include a description of what the project aims to achieve with the funded hardware.  For example:
     - Support for this hardware is committed to the upstream project repository.
     - A sustainable community of developers is formed to continue development and support of the hardware.
     - An individual takes an active role in the development of Open Source support for the hardware, which would have otherwise been impossible due to the cost of the hardware.
