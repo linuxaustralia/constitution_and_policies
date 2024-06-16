@@ -31,4 +31,15 @@ In contrast, proposals which are unlikely to be accepted include:
 * Development of hardware or software which will not be released under an open licence
 * Applications which lack justification and explanation of the amount requested
 
+For grants that include the funding of hardware purchases to support Open Source software development:
+
+* The grant application should include a description of what the project aims to achieve with the funded hardware.  For example:
+    - Support for this hardware is committed to the upstream project repository.
+    - A sustainable community of developers is formed to continue development and support of the hardware.
+    - An individual takes an active role in the development of Open Source support for the hardware, which would have otherwise been impossible due to the cost of the hardware.
+
+* An individual or group may receive at most one grant of this nature per grant cycle.
+
+* In the project's final report provided to Linux Australia, include a review of what went well and what did not.  If the project’s objectives were not met, explain what might have helped the project achieve more.  If applicable, describe any follow up activities which could build on the progress made and how others might be able to assist to provide additional value for the broader community.  If the grant included funding for hardware, explain the future plans for that hardware.
+
 The Linux Australia Council welcomes the opportunity to work with the authors of grant applications if assistance is needed to transform ideas into a viable proposal.
