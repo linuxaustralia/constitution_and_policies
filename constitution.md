@@ -25,6 +25,25 @@ _PreDef-2_: The Interpretation Act 1987 applies to this constitution as if it we
 
 Note: The Act, Part 4 deals with various matters relating to the management of associations.
 
+### _PrePur_: Purpose of the organisation
+
+_PrePur-1_: Linux Australia is established with the purpose of advancing the open source and related technologies in Australia:
+
+* conducting and publishing research into improvements to the processes used in open source and related technologies,
+* working with government at all levels to ensure that the interests of the open source and related technologies are represented in regard to the public decision-making process, and
+* providing a forum for all people engaged in the open source and related technologies to discuss best practice and enhancing the future of the software and computing.
+
+### _PreObj_: Objects of the organisation
+
+_PreObj-1_: The objects for which the association is established are:
+
+* to facilitate the communication of information relating to inventions, results, techniques, and governance of open source and related open technologies;
+* to support open source and related open technologies projects and the contributors to open source and related open technologies;
+* to support and promote the adoption of open source and related open technologies;
+* to support and promote awareness and understanding of open source and related open technologies;
+* to conduct open source and related open technologies advocacy with the government, business and civil society;
+* to create a network for related local and online open source and related open technologies communities.
+
 # Part 2 - Members of association
 
 ### _MemGen_: Membership generally
