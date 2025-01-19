@@ -50,7 +50,7 @@ _MemApp-1_: An application by a person to be a member of the association must be
 
 _MemApp-2_: The committee may determine that an application may be made or lodged by email or other electronic means.
 
-_MemApp-3_: The secretary must refer an application to the committee as soon as practicable after receiving the application.
+_MemApp-3_: The secretary must determine whether to approve or reject the application or refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
 
 _MemApp-4_: The committee must approve or reject the application.
 
@@ -75,17 +75,16 @@ _MemReg-2_: The register:
   - a residential, postal or email address, and
   - the date on which the person became a member, and
   - if the person ceases to be a member - the date on which the person ceased to be a member, and
-* _MemReg-2-NSW_: must be kept in New South Wales:
+* _MemReg-2-NSW_: if not elecronic must be kept in Australia:
   - at the association’s main premises, or
   - if the association has no premises - at the association’s official address, and
-* _MemReg-2-Ins_: must be available for inspection, free of charge, by members at a reasonable time, and
-* if kept in electronic form - must be able to be converted to hard copy.
+* _MemReg-2-Ins_: must be available for inspection, free of charge, by members at a reasonable time.
 
 _MemReg-3_: If the register is kept in electronic form, the requirements in subclause _MemReg-2-NSW_ and _#MemReg-2-Ins_ apply as if a reference to the register is a reference to a current hard copy of the register.
 
 _MemReg-4_: A member may obtain a hard copy of the register, or a part of the register, on payment of a fee of not more than $1, as determined by the committee, for each page copied.
 
-_MemReg-5_: Information about a member, other than the member’s name, must not be made available for inspection if the member requests that the information not be made available.
+_MemReg-5_: No information about a member, other than the member’s name can be made available for inspection unless the member authorises that information to be released.
 
 _MemReg-6_: A member must not use information about a member obtained from the register to contact or send material to the member, unless:
 
@@ -108,6 +107,8 @@ _MemFee-2_: A member must pay to the association an annual subscription fee of $
   - in accordance with clause _MemReg-2-Ins_, and
   - before the first day of the financial year of the association in each subsequent calendar year, or
 * otherwise - before the first day of the financial year of the association in each calendar year.
+
+_MemFee-3_: If the annual membership fee due in any calendar year is $0, the committee may choose to request explicit membership renewal. In this case the secretary shall notify members no later than 1 August that they must renew their membership using a procedure as outlined in the notification, or cease to be members from 1 October that year.
 
 ### _MemLia_: Members' liabilities
 
@@ -232,7 +233,7 @@ _ComEle-1_: Any member of the association may be nominated as a candidate for el
 _ComEle-2_: The nomination must be:
 
 * made in writing, and
-* signed by at least 2 members of the association, not including the candidate, and
+* signed by at least 2 members of the association, and
 * accompanied by the written consent of the candidate to the nomination, and
 * given to the secretary at least 7 days before the date fixed for the annual general meeting at which the election is to take place.
 
@@ -650,7 +651,7 @@ _AdmIns-4_: The committee may refuse to allow a member to inspect or obtain a co
 _AdmFin-1_: The association’s financial year is:
 
 * The period commencing on the date of incorporation of the association and ending on the following 30 June, and
-* each period of 12 months after the expiration of the previous financial year, commencing on 1 July and ending on the following 30 June.
+* each period of 12 months after the expiration of the previous financial year, commencing on 1 October and ending on the following 30 September.
 
 Note: The Regulation, section 21 contains a substitute clause 44 for certain associations incorporated under the Associations Incorporation Act 1984.
 
