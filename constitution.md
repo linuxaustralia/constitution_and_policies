@@ -27,7 +27,7 @@ Note: The Act, Part 4 deals with various matters relating to the management of a
 
 ### _PrePur_: Purpose of the organisation
 
-_PrePur-1_: Linux Australia is established with the purpose of advancing the open source and related technologies in Australia:
+_PrePur-1_: Linux Australia is established with the purpose of advancing open source and related technologies in Australia:
 
 * conducting and publishing research into improvements to the processes used in open source and related technologies,
 * working with government at all levels to ensure that the interests of the open source and related technologies are represented in regard to the public decision-making process, and
@@ -69,7 +69,7 @@ _MemApp-1_: An application by a person to be a member of the association must be
 
 _MemApp-2_: The committee may determine that an application may be made or lodged by email or other electronic means.
 
-_MemApp-3_: The secretary must determine whether to approve or reject the application or refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
+_MemApp-3_: The secretary must refer an application to the committee as soon as practicable after receiving the application.
 
 _MemApp-4_: The committee must approve or reject the application.
 
@@ -94,7 +94,8 @@ _MemReg-2_: The register:
   - a residential, postal or email address, and
   - the date on which the person became a member, and
   - if the person ceases to be a member - the date on which the person ceased to be a member, and
-* _MemReg-2-NSW_: if not elecronic must be kept in Australia:
+* _MemReg-2-NSW_: must be readily accessible in Australia, and kept:
+  - electronically, or
   - at the association’s main premises, or
   - if the association has no premises - at the association’s official address, and
 * _MemReg-2-Ins_: must be available for inspection, free of charge, by members at a reasonable time.
@@ -441,7 +442,7 @@ _MetGen-2_: The association must hold subsequent annual general meetings within:
 * 6 months of the last day of the association’s financial year, or
 * the later period allowed or prescribed in accordance with the Act, section 37(2)(b).
 
-_MetGen-3_: Subject to the Act and subclauses _MetGen-1_ and _#MetGen-2_, the annual general meeting is to be held at the place and time determined by the committee.
+_MetGen-3_: Subject to the Act and subclauses _MetGen-1_ and _MetGen-2_, the annual general meeting is to be held at the place and time determined by the committee.
 
 _MetGen-4_: The business that may be transacted at an annual general meeting includes the following:
 
@@ -638,8 +639,9 @@ _AdmNot-2_: A notice is taken to have been given to or served on a person, unles
 
 ### _AdmCus_: Custody of records and books
 
-_AdmCus-1_: Except as otherwise provided by this constitution, all records, books and other documents relating to the association must be kept in New South Wales:
+_AdmCus-1_: Except as otherwise provided by this constitution, all records, books and other documents relating to the association must be readily accessible in Australia, must be kept:
 
+* electronically, or
 * at the association’s main premises, in the custody of either of the following persons, as determined by the committee:
   - the public officer,
   - a member of the association, or
@@ -671,8 +673,6 @@ _AdmFin-1_: The association’s financial year is:
 
 * The period commencing on the date of incorporation of the association and ending on the following 30 June, and
 * each period of 12 months after the expiration of the previous financial year, commencing on 1 October and ending on the following 30 September.
-
-Note: The Regulation, section 21 contains a substitute clause 44 for certain associations incorporated under the Associations Incorporation Act 1984.
 
 ### _AdmWin_: Distribution of property on winding up
 
