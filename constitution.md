@@ -59,6 +59,8 @@ _MemGen-1_: An individual is taken to be a member of the association if:
 
 _MemGen-2_: A person who is not an individual is not eligible to be a member of the association.
 
+_MemGen-3_: For the avoidance of doubt, the term "individual" in clause _MemGen-1_ includes individuals regardless of their residency or citizenship status.
+
 ### _MemApp_: Membership applications
 
 _MemApp-1_: An application by a person to be a member of the association must be:
