@@ -37,12 +37,12 @@ _PrePur-1_: Linux Australia is established with the purpose of advancing open so
 
 _PreObj-1_: The objects for which the association is established are:
 
-* to facilitate the communication of information relating to inventions, results, techniques, and governance of open source and related open technologies;
-* to support open source and related open technologies projects and the contributors to open source and related open technologies;
-* to support and promote the adoption of open source and related open technologies;
-* to support and promote awareness and understanding of open source and related open technologies;
-* to conduct open source and related open technologies advocacy with the government, business and civil society;
-* to create a network for related local and online open source and related open technologies communities.
+* to facilitate the communication of information relating to inventions, results, techniques, and governance of open source, related open technologies and similar engineering endeavours that work toward making information and designs available to the public so others are free to build on them (hereafter referred to as open technologies);
+* to support open technologies;
+* to support and promote the adoption of open technologies;
+* to support and promote awareness and understanding of open technologies;
+* to conduct open technologies advocacy with the government, business and civil society;
+* to create a network for related local and online open technologies communities.
 
 # Part 2 - Members of association
 
@@ -71,9 +71,9 @@ _MemApp-1_: An application by a person to be a member of the association must be
 
 _MemApp-2_: The committee may determine that an application may be made or lodged by email or other electronic means.
 
-_MemApp-3_: The secretary must refer an application to the committee as soon as practicable after receiving the application.
+_MemApp-3_: Applications must be referred to the committee as soon as practicable after receiving the application.
 
-_MemApp-4_: The committee must approve or reject the application.
+_MemApp-4_: The committee must approve or reject applications received.
 
 _MemApp-5_: As soon as practicable after the committee has decided the application, the secretary must:
 
