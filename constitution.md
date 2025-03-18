@@ -102,11 +102,11 @@ _MemReg-2_: The register:
   - if the association has no premises - at the association’s official address, and
 * _MemReg-2-Ins_: must be available for inspection, free of charge, by members at a reasonable time.
 
-_MemReg-3_: If the register is kept in electronic form, the requirements in subclause _MemReg-2-NSW_ and _#MemReg-2-Ins_ apply as if a reference to the register is a reference to a current hard copy of the register.
+_MemReg-3_: If the register is kept in electronic form, the requirements in subclause _MemReg-2-NSW_ and _MemReg-2-Ins_ apply as if a reference to the register is a reference to a current hard copy of the register.
 
 _MemReg-4_: A member may obtain a hard copy of the register, or a part of the register, on payment of a fee of not more than $1, as determined by the committee, for each page copied.
 
-_MemReg-5_: No information about a member, other than the member’s name can be made available for inspection unless the member authorises that information to be released.
+_MemReg-5_: No information about a member, other than the member’s name, can be made available for inspection unless the member authorises that information to be released.
 
 _MemReg-6_: A member must not use information about a member obtained from the register to contact or send material to the member, unless:
 
@@ -257,20 +257,24 @@ _ComEle-2_: The nomination must be:
 * made in writing, and
 * signed by at least 2 members of the association, and
 * accompanied by the written consent of the candidate to the nomination, and
-* given to the secretary at least 7 days before the date fixed for the annual general meeting at which the election is to take place.
+* given to the secretary at least 7 days, or other period as determined by the committee and specified in the announcement of a ballot, before the date fixed for opening of the voting period for the election or the holding of the annual general meeting at which the election is to take place.
 
-_ComEle-3_: If insufficient nominations are received to fill all vacancies:
+_ComEle-3_: The committee may determine that a nomination may be made or lodged by email or other electronic means.
+
+_ComEle-4_: The ballot for the election of office-bearers and ordinary committee members is to be conducted no more than 60 days before an annual general meeting or at the annual general meeting in such usual and proper manner as the committee may direct.
+
+_ComEle-5_: If insufficient nominations are received to fill all vacancies:
 
 * the candidates nominated are taken to be elected, and
 * a call for further nominations must be made at the meeting.
 
-_ComEle-4_: A nomination made at the meeting in response to a call for further nominations must be made in the way directed by the member presiding at the meeting.
+_ComEle-6_: A nomination made at the meeting in response to a call for further nominations must be made in the way directed by the member presiding at the meeting.
 
-_ComEle-5_: Vacancies that remain after a call for further nominations are taken to be casual vacancies.
+_ComEle-7_: Vacancies that remain after a call for further nominations are taken to be casual vacancies.
 
-_ComEle-6_: If the number of nominations received is equal to the number of vacancies to be filled, the members nominated are taken to be elected.
+_ComEle-8_: If the number of nominations received is equal to the number of vacancies to be filled, the members nominated are taken to be elected.
 
-_ComEle-7_: If the number of nominations received is more than the number of vacancies to be filled, a ballot must be held at the meeting in the way directed by the committee.
+_ComEle-9_: If the number of nominations received is more than the number of vacancies to be filled, a ballot must be held at the meeting in the way directed by the committee.
 
 ### _ComTer_: Terms of office
 
@@ -304,7 +308,7 @@ _ComVac-3_: A committee member to whom a proposed resolution referred to in subc
 * _ComVac-3-Sta_: give a written statement, of a reasonable length, to the president or secretary, and
 * _ComVac-3-Sen_: request that the committee send a copy of the statement to each member of the association at least 7 days before the general meeting at which the proposed resolution will be considered.
 
-_ComVac-4_: If the committee fails to send a copy of a statement received under subclause _ComVac-3-Sta_ to each member in accordance with a request made under subclause _#ComVac-3-Sen_, the statement must be read aloud by the member presiding at the general meeting at which the proposed resolution will be considered.
+_ComVac-4_: If the committee fails to send a copy of a statement received under subclause _ComVac-3-Sta_ to each member in accordance with a request made under subclause _ComVac-3-Sen_, the statement must be read aloud by the member presiding at the general meeting at which the proposed resolution will be considered.
 
 _ComVac-5_: The committee may appoint a member of the association to fill a casual vacancy other than a vacancy arising from the removal from office of a committee member.
 
@@ -450,7 +454,7 @@ _MetGen-4_: The business that may be transacted at an annual general meeting inc
 
 * confirming the minutes of the previous annual general meeting and any special general meetings held since the previous annual general meeting,
 * receiving reports from the committee on the association’s activities during the previous financial year,
-* electing office-bearers and ordinary committee members,
+* electing office-bearers and ordinary committee members, or to announce the results of a ballot held prior to the annual general meeting under subclause _ComEle-4_,
 * receiving and considering financial statements or reports required to be submitted to members of the association under the Act.
 
 Note: The Act, section 37(1) and (2) provides for when annual general meetings must be held.
@@ -629,7 +633,8 @@ _AdmNot-1_: For the purposes of this constitution, a notice may be given to or s
 
 * by delivering the notice to the person personally, or
 * by sending the notice by pre-paid post to the address of the person, or
-* by sending the notice by electronic transmission to an address specified by the person for giving or serving the notice.
+* by sending the notice by electronic transmission to an address specified by the person for giving or serving the notice, or
+* by sending or posting the notice by electronic transmission to the association's announcement channels and/or website.
 
 _AdmNot-2_: A notice is taken to have been given to or served on a person, unless the contrary is proved:
 
