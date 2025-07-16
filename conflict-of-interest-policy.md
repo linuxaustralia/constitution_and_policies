@@ -28,23 +28,25 @@ Linux Australia sub-committees.
 
 A conflict of interest occurs when a person’s personal interests
 conflict with their responsibility to act in the best interests of
-the charity.  Personal interests include direct interests, as well as
-those of family, friends, or other organisations a person may be
-involved with or have an interest in (for example, as a shareholder).
+the organisation.  Personal interests include direct interests, as
+well as those of family, friends, or other organisations a person
+may be involved with or have an interest in (for example, as a
+shareholder).
 
 It also includes a conflict between a committee member’s duty to
 Linux Australia and another duty that the committee member has (for
-example, to another charity).  A conflict of interest may be actual,
-potential or perceived and may be financial or non-financial.
+example, to another organisation).  A conflict of interest may be
+actual, potential or perceived and may be financial or non-financial.
 
 Related party transactions can lead to perceived, potential, or
 actual conflicts of interest.  Conflicts of interest may arise when
 a related party (for example, close family of a committee member)
-has an interest that can conflict with the best interests of the charity.
+has an interest that can conflict with the best interests of the
+organisation.
 
 These situations present the risk that a person will make a decision
 based on, or affected by, these influences, rather than in the best
-interests of the charity.  Therefore, these situations must be
+interests of the organisation.  Therefore, these situations must be
 managed accordingly.
 
 ### 5. Policy
@@ -53,8 +55,8 @@ This policy has been developed to address conflicts of interest
 affecting Linux Australia.
 
 Conflict of interest are common, and they do not need to present a
-problem to the charity as long as they are openly and effectively
-managed.
+problem to the organisation as long as they are openly and
+effectively managed.
 
 It is the policy of Linux Australia, as well as a responsibility of
 the committee, that ethical, legal, financial or other conflicts of
@@ -62,22 +64,27 @@ interest be avoided and that any such conflicts (where they do
 arise) do not conflict with the obligations to Linux Australia.
 
 Linux Australia will manage conflicts of interest by requiring
-committee members to: avoid conflicts of interest where possible
-identify and disclose any conflicts of interest carefully manage any
-conflicts of interest, and follow this policy and respond to any
-breaches.
+committee members to:
+
+* avoid conflicts of interest where possible,
+* identify and disclose any conflicts of interest,
+* carefully manage any conflicts of interest, and
+* follow this policy and respond to any breaches.
 
 #### 5.1. Responsibility of the committee
 
-The committee is responsible for: establishing a system for
-identifying, disclosing and managing related party transactions and
-conflicts of interest across the charity monitoring compliance with
-this policy, and reviewing this policy on an annual basis to ensure
-that the policy is operating effectively.
+The committee is responsible for:
 
-The charity must ensure that its committee members are aware of the
-ACNC Governance Standards, particularly Governance Standard 5, and
-that they disclose any actual or perceived material conflicts of
+* establishing a system for identifying, disclosing and managing,
+  related party transactions and conflicts of interest across the
+  organisation,
+* monitoring compliance with this policy, and
+* reviewing this policy on an annual basis to ensure that the policy
+  is operating effectively.
+
+The organisation must ensure that its committee members are aware of
+the ACNC Governance Standards, particularly Governance Standard 5,
+and that they disclose any actual or perceived material conflicts of
 interests as required by Governance Standard 5.
 
 #### 5.2. Identification and disclosure of conflicts of interest
@@ -92,12 +99,16 @@ ACNC Governance Standards, especially Governance Standard 5, while
 taking reasonable steps to ensure that its committee members are
 subject to, and comply with, the relevant duties.
 
-Linux Australia may: obtain professional advice, consider whether
-there are any relevant exceptions in its governing document or
-legislation, consider whether it is appropriate for members to pass
-a resolution in a general meeting, consider appointing new committee
-members; and note that its committee members may consider whether
-they can continue in the role.
+Linux Australia may:
+
+* obtain professional advice,
+* consider whether there are any relevant exceptions in its
+  governing document or legislation,
+* consider whether it is appropriate for members to pass a
+  resolution in a general meeting,
+* consider appointing new committee members;
+* and note that its committee members may consider whether they can
+  continue in the role.
 
 The register of interests must be maintained by the Vice President.
 The register must record information related to a conflict of
@@ -111,8 +122,8 @@ recorded in Linux Australia’s register of interests.
 
 #### 5.3. Confidentiality of disclosures
 
-Only the committee members members will have access to the register
-of interests.  When a member leaves the committee for any reason the
+Only the committee members will have access to the register of
+interests.  When a member leaves the committee for any reason the
 Vice President will ensure all their entries in the register of
 interests are purged within 2 years.
 
@@ -124,8 +135,10 @@ Once the conflict of interest has been appropriately disclosed, the
 committee (excluding the committee member who has made the
 disclosure, as well as any other conflicted committee member) must
 decide whether or not those conflicted committee members should:
-vote on the matter (this is a minimum), participate in any debate,
-or be present in the room during the debate and the voting.
+
+* vote on the matter (this is a minimum),
+* participate in any debate,
+* or be present in the room during the debate and the voting.
 
 In exceptional circumstances, such as where a conflict is very
 significant or likely to prevent a committee member from regularly
@@ -136,13 +149,14 @@ from the committee.
 #### 6.2. What should be considered when deciding what action to take
 
 In deciding what approach to take, the committee will consider:
-whether the conflict needs to be avoided or simply documented
-whether the conflict will realistically impair the disclosing
-person’s capacity to impartially participate in decision-making
-alternative options to avoid the conflict the charity’s objects and
-resources, and the possibility of creating an appearance of improper
-conduct that might impair confidence in, or the reputation of, the
-charity.
+
+* whether the conflict needs to be avoided or simply documented,
+* whether the conflict will realistically impair the disclosing
+  person’s capacity to impartially participate in decision-making,
+* alternative options to avoid the conflict with the organisation’s
+  objects and resources, and
+* the possibility of creating an appearance of improper conduct that
+  might impair confidence in, or the reputation of, the organisation.
 
 The approval of any action requires the agreement of at least a
 majority of the committee (excluding any conflicted committee
@@ -159,7 +173,7 @@ circumstances.
 If it is found that this person has failed to disclose a related
 party transaction or conflict of interest, the committee may take
 action against them.  This may include seeking to terminate their
-relationship with the charity.
+relationship with the organisation.
 
 If a person suspects that a committee member has failed to disclose
 a related party transaction or conflict of interest, they must
