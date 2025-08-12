@@ -122,10 +122,9 @@ recorded in Linux Australia’s register of interests.
 
 #### 5.3. Confidentiality of disclosures
 
-Only the committee members will have access to the register of
-interests.  When a member leaves the committee for any reason the
-Vice President will ensure all their entries in the register of
-interests are purged within 2 years.
+The register of interests will be available for inspection by any
+member of the organisation upon payment of a fee determined by the
+committee.
 
 ### 6. Action required for management of conflicts of interest
 
